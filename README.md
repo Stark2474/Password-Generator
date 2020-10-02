@@ -1,2 +1,2 @@
-# Password-Generator 8-digit
+# Password-Generator
 Password Generator to secure your passwords 
